@@ -1,5 +1,6 @@
 # COVID19
 
+Updated.
 Resources for COVID-19 detection using medical imaging and deep
 learning.
 
